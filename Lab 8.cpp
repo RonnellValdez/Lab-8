@@ -222,17 +222,6 @@ int main()
 	}
 	cout << endl << "You were born on a " << dayOfweek << endl;
 
-
-
-
-
-
-
-
-
-
-
-
 	return 0;
 }
 
